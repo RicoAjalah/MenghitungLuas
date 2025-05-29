@@ -44,7 +44,7 @@ body {
 </head>
 <body>
     <img src="SMK2-Logo.png">
-  <center><h2>Menghitung Luas Persegi Panjang</h2></center>
+  <center><h2>Menghitung Luas Lingkaran</h2></center>
   
   <form method="post">
     J <input type="number" name="Jari_Jari" id="J" required> <br> <br>
